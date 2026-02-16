@@ -1,0 +1,2 @@
+Widgets:
+V0 Temp, V1 Humidity, V2 Air Raw, V3 AQI, V4 Comfort, V10 Auto Switch
